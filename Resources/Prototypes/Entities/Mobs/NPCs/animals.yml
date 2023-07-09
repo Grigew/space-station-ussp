@@ -360,6 +360,7 @@
       state: cow
       sprite: Mobs/Animals/cow.rsi
   - type: Physics
+  - type: Vehicle
   - type: Fixtures
     fixtures:
       fix1:
