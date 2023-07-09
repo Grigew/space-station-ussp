@@ -418,6 +418,19 @@
   - type: GuideHelp
     guides:
     - Chef
+  - type: ItemSlots
+      slots:
+        key_slot: #this slot name is important
+          name: Keys
+          whitelist:
+            requireAll: true
+            tags:
+            - VehicleKey
+            - V
+          insertSound:
+            path: /Audio/Animals/cow_moo.ogg
+            params:
+              volume: -3
 
 - type: entity
   name: crab
