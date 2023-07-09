@@ -1,1 +1,15 @@
+{
+  "version": 1,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "license": "none",
+  "copyright": "IT'S MY TEXTURES!!!!",
+  "states": [
+    {
+      "name": "keys"
+    }
+  ]
+}
 
