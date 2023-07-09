@@ -16,6 +16,20 @@
 
 - type: entity
   parent: VehicleKeyJanicart
+  id: VehicleKeySaddle
+  name: saddle
+  description: So your butt doesnt hurt.
+  components:
+  - type: Tag
+    tags:
+    - VehicleKey
+    - SaddleKeys
+  - type: Sprite
+    sprite: Objects/Vehicles/horse.rsi
+    state: keys
+
+- type: entity
+  parent: VehicleKeyJanicart
   id: VehicleKeySecway
   name: secway keys
   description: The keys to the future.
