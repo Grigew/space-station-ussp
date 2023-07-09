@@ -426,7 +426,7 @@
             requireAll: true
             tags:
             - VehicleKey
-            - V
+            - SaddleKey
           insertSound:
             path: /Audio/Animals/cow_moo.ogg
             params:
